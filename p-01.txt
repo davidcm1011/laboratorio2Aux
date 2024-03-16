@@ -1,0 +1,12 @@
+Algunas de las caracteristicas de template strings son:
+    1:la interpolacion variable, Los template strings te permiten insertar variables directamente dentro del string.
+    2:Expresiones JavaScrip, Aparte de las variables string, tambien se 
+    puede incluir expresiones JavaScript dentro de los template string.
+    3:Multilinea, Los template strings te permiten crear strings multilínea sin necesidad de concatenar manualmente 
+    los saltos de línea.
+Diferencias:
+    Las diferencias de las comillas simples y dobles con template strings son:
+    1: los anteriores dos son estaticos por lo cual no permiten la interpolacion de variables ni la inclucion de 
+    expresiones JavaScript.
+    2: Los template strings son utiles para crear strings multilínea de una manera mas legible mientras que con las otras
+     se necesita concatenar multiples estrings.

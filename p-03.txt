@@ -1,0 +1,23 @@
+Caracteristicas principales de Typescript:
+    1: Tipado estatico opcional, permite la definicion de tipos estaticos para variables.
+
+    2: Inferencia de tipos, puede inferir tipos automáticamente en muchos casos, lo que significa 
+    que no es necesario especificar explícitamente los tipos.
+
+    3: Soporte para clases y objetos, admite la programación orientada a objetos mediante clases, interfaces y herencia.
+
+    4: Compatibilidad con ECMAScript, TypeScript es un superconjunto de JavaScript, lo que significa que 
+    todo el código JavaScript existente es también código TypeScript válido.
+
+    5: Soporte para modulos, admite la importación y exportación de módulos, lo que facilita la organización 
+    del código en diferentes archivos y la reutilización de código entre proyectos.
+
+Diferencias entre TypeScript y JavaScript:
+    1:Fase de compilación, TypeScript requiere una fase de compilación antes de ejecutarse, 
+    donde el código TypeScript se transforma en código JavaScript.
+
+    2:Herramientas de desarrollo, TypeScript proporciona herramientas de desarrollo más avanzadas,
+    como IntelliSense y detección de errores estáticos durante el desarrollo, que no están disponibles en JavaScript de forma nativa.
+    
+    3:Adopción de nuevas características ECMAScript, TypeScript a menudo incluye características de ECMAScript más nuevas antes de que
+     estén disponibles en JavaScript estándar.
